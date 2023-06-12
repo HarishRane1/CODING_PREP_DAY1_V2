@@ -1,0 +1,15 @@
+Stream
+Stream is sequence of bytes
+It is a medium allows data to flow between java application and device
+Using stream for wirting => output Stream
+Using stream for reading => input stream 
+
+Types of stream :
+1]Character stream:
+The stream that allows to read and write of data in the form of text/charcters then it is called character stream 
+eg:Filereader,FileWriter
+
+2]Byte Stream:
+The stream that allows user to read and write data in the form of binary is called a byte stream.
+eg:FileInput Stream,FileOutput Stream,
+
